@@ -1,0 +1,10 @@
+.DS_Store
+a.out
+push_swap
+checker
+*.o
+*.swp
+.vscode
+*.dSYM
+test*
+libft/libft.a
